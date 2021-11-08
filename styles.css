@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    padding: 0; 
+    background-color: rgb(176, 193, 230);
+
+}
+html {
+    font-size: 20px;
+    
+}
+body {
+    width: 50vw;
+    min-width: 55px;
+    margin: 0 auto;
+    height: 75vh;
+
+}
+nav {
+    background-color: rgba(250, 128, 114, 0.534);
+
+}
+.jumbotron{
+
+}
+.display-4{
+
+}
+.lead{
+
+}
+p {
+
+}
+img {
+
+}
+.carousel-item{
+
+}
+.d-block{
+    height: 500px;
+}
