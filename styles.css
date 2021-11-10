@@ -19,6 +19,8 @@ nav {
     background-color: rgba(250, 128, 114, 0.534);
 
 }
+
+
 .jumbotron{
 
 }
@@ -28,15 +30,32 @@ nav {
 .lead{
 
 }
-p {
+.my-4{
+
+}
+
+.carousel-item {
 
 }
 img {
+    width: 50px;
 
 }
-.carousel-item{
+.carousel-control-prev {
+    display: none;
+    visibility: noimportant;
+}
+.carousel-control-next {
+    display: none;
+}
+#aboutMe{
 
 }
-.d-block{
-    height: 500px;
+p {
+    font-size: 30px;
+    font-family:“Segoe UI”
+    height: 300px;
+}
+#workExperience{
+
 }
